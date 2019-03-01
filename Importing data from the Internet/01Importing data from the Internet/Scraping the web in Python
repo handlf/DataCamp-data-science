@@ -1,0 +1,2 @@
+前面训练两个程序包urllib和requests得到网站数据
+使用python中的BeautifulSoup包进行处理非结构化的数据，可以参考BS官网https://www.crummy.com/software/BeautifulSoup/
